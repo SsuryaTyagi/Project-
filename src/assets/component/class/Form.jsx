@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./form.css"
+import "./Form.css"
 
 const LoginRegister = () => {
   const [active, setActive] = useState(false);
